@@ -6,9 +6,13 @@ A warm, retro-tiki dark theme for **VS Code** and **Ghostty**. High readability,
 
 ## Screenshots
 
-![Ghostty terminal — bat highlighting the theme JSON](./screenshots/terminal-screen01.png)
+**VS Code** — editor theme with the integrated terminal running a custom tiki-head `fastfetch`:
 
-_More coming soon: VS Code editor, split-pane terminal, and a fastfetch shot with the custom tiki logo._
+![VS Code with Tiki Love Dark, plus fastfetch in the integrated terminal](./screenshots/vscode-screen01.png)
+
+**Ghostty** — `bat` highlighting the theme JSON:
+
+![Ghostty terminal — bat highlighting the theme JSON](./screenshots/terminal-screen01.png)
 
 ## What's in this repo
 
