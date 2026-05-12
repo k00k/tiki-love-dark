@@ -1,0 +1,20 @@
+{
+  "name": "tiki-love-dark",
+  "displayName": "Tiki Love Dark",
+  "description": "A warm, tiki-retro inspired dark theme with high readability and distinct panel colors.",
+  "version": "1.0.0",
+  "publisher": "steve",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tiki Love Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tiki-love-dark-color-theme.json"
+      }
+    ]
+  }
+}
